@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vivian, I'm 19 yo and I'm brazillian. I began this weird but exciting tech journey in 2023. Wish me luck 🥲☕</p>
+<p align="left">My name is Vivian, I'm 20 yo and I'm brazillian. I began this weird but exciting tech journey in 2023. Wish me luck 🥲☕</p>
 
 ###
 

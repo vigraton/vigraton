@@ -1,23 +1,33 @@
-<h1 align="left">Hey stalker ^-^</h1>
+<h1 align="left">Ça va?</h1>
 
 ###
 
-<p align="left">My name is Vivian, I'm 20 yo and I'm brazillian. I began this weird but exciting tech journey in 2023. Wish me luck 🥲☕</p>
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <pre><code>
 
-###
+  My name is Vivian, I'm 20 yo and I'm brazillian. 
+  I began this weird but exciting tech journey in 2023.
+  Wish me luck 🥲☕
 
-<h2 align="left">About me</h2>
+   About me
+  ✨ Creating bugs since 2023
+  📚 I'm currently learning JavaScript and Typescript
+  🎲 Fun fact: I love drawing and painting
+  🎨 I create very cute prototypes in Figma
 
-###
+</code></pre>
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning JavaScript<br>🎲 Fun fact: I love drawing and painting</p>
+</td>
+<td style="vertical-align: top;">
+<img src="./assets/download.jpg" alt="adventure time image" style="height: 350px; width: 350px;">
+</td>
 
-###
+  </tr>
+</table>
 
-<h2 align="left">I work with</h2>
-
-###
-
+  <h2> I work with </h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />

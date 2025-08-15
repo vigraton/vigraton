@@ -21,7 +21,7 @@
 
 </td>
 <td style="vertical-align: top;">
-<img src="./assets/download.jpg" alt="adventure time image" style="height: 350px; width: 350px;">
+<img src="./assets/download.jpg" alt="adventure time image" style="height: 320px; width: 320px;">
 </td>
 
   </tr>

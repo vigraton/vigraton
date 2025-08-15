@@ -14,6 +14,12 @@
 
 ###
 
+<td style="vertical-align: top; horizontal-align: right;">
+<img src="./assets/download.jpg" alt="Adventure Time image" style="height: 300px; width: 300px;">
+</td>
+
+###
+
 <h2 align="left">I work with</h2>
 
 ###

@@ -12,7 +12,7 @@
   Wish me luck 🥲☕
 
    About me
-  ✨ Creating bugs since 2023
+  ✨ Creating bugs since 2024
   📚 I'm currently learning JavaScript and Typescript
   🎲 Fun fact: I love drawing and painting
   🎨 I create very cute prototypes in Figma

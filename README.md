@@ -7,7 +7,7 @@
     <td style="vertical-align: top;">
       <pre><code>
 
-  My name is Vivian, I'm 20 yo and I'm brazillian. 
+  My name is Vivian, I'm 21 yo and I'm brazillian. 
   I began this weird but exciting tech journey in 2023.
   Wish me luck 🥲☕
 
